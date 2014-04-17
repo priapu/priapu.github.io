@@ -1,0 +1,17 @@
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+
+
+body {
+  font: 1em/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#page {
+  @include outer-container;
+}
+#content {
+  margin-bottom: 5em;
+}
+#footer {
+  display: none;
+}
