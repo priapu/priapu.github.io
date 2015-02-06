@@ -18,8 +18,9 @@ Note: this is a TL:DR version.
   * Push your changes to the `master` branch and watch your blog go live.
 * Profit!
 
-Additional resources: 
+Additional resources:
+
 * [Jekyll documentation](http://jekyllrb.com/docs/home/).
 * [Jekyll themes](http://jekyllthemes.org/).
-* [Markdown syntax documentation](http://daringfireball.net/projects/markdown/syntax).
+* [Markdown syntax documentation](http://daringfireball.net/projects/markdown/syntax) and [Markdown basics](https://help.github.com/articles/markdown-basics/).
 * Syntax highlighting using [Pygments](http://pygments.org/).
