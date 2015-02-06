@@ -2,7 +2,6 @@
 layout: post
 title:  "How to start blogging in Github with Jekyll"
 date:   2015-02-06 17:39:10
-categories: jekyll github
 ---
 
 Note: this is a TL:DR version.
