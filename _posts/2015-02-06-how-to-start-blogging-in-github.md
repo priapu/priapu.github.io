@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to start blogging in Github"
+title:  "How to start blogging in Github with Jekyll"
 date:   2015-02-06 17:39:10
 categories: jekyll github
 ---
