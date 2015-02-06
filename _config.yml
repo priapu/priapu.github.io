@@ -1,0 +1,15 @@
+# Site settings
+title: Pria Purnama
+email: dudewithmessyhair@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Web developer from Bali, currently working in Jakarta.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://priapurnama.github.io/" # the base hostname & protocol for your site
+twitter_username: priapurnama
+github_username:  priapurnama
+
+# Build settings
+markdown: kramdown
+
+timezone: Asia/Jakarta
+encoding: utf-8
