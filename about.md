@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Pria Purnama](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/0b1/192/304edcb.jpg "Pria Purnama")
+![Pria Purnama](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUKAAAAJDM2MTM5YjlkLTgxNWUtNGY4Zi05MzgxLTM1MGE2YjE2NTk4OA.jpg "Pria Purnama")
 
 A/S/L: 27/M/Jakarta, Indonesia.
 
