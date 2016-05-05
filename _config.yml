@@ -13,4 +13,4 @@ markdown: kramdown
 
 timezone: Asia/Jakarta
 encoding: utf-8
-highlighter: pygments
+highlighter: rouge
