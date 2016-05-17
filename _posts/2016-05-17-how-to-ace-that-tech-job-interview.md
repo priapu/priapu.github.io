@@ -46,8 +46,8 @@ Do ask questions that tells us that you did your homework.
 
 Do ask questions that show your depth, that you're passionate about the work.
 
-Di ask questions that show that you're hungry for knowledge.
+Do ask questions that show that you're hungry for knowledge.
 
-Bottom line is that interviewers won't assess only your technical side only. The more experience you have in the field, the more likely you'll be assessed by your attitude as well.
+Bottom line is that interviewers won't only assess your technical side. The more experience you have in the field, the more likely you'll be assessed by your attitude as well.
 
 *So be cool, don't be an asshole.*
