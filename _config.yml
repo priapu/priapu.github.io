@@ -1,12 +1,12 @@
 # Site settings
-title: Pria Purnama
+title: Pria P
 email: dudewithmessyhair@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Versatile engineering manager with over a decade of experience in tech and product management.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://priapurnama.github.io/" # the base hostname & protocol for your site
+url: "http://priapu.github.io/" # the base hostname & protocol for your site
 twitter_username: anima
-github_username:  priapurnama
+github_username:  priapu
 
 # Build settings
 markdown: kramdown
